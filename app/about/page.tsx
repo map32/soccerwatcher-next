@@ -72,12 +72,12 @@ export default function AboutPage() {
           <div className="flex flex-col md:flex-row gap-4 items-center justify-center text-base text-slate-700 font-semibold">
             <div className="flex items-center gap-2">
               <User className="w-5 h-5 text-blue-600" />
-              <span>Minwoo Dong</span>
+              <span>Kim Woojin</span>
             </div>
             <div className="hidden md:block text-slate-300">•</div>
             <a href="mailto:dongminwoo7@gmail.com" className="flex items-center gap-2 hover:text-blue-600 transition-colors">
               <Mail className="w-5 h-5 text-blue-600" />
-              <span>dongminwoo7@gmail.com</span>
+              <span>woojin@gmail.com</span>
             </a>
           </div>
         </div>
